@@ -1,0 +1,22 @@
+Profile Summary / About myself. 
+1.	I am having 11+ years of IT experience, started with HCL Technologies and worked for around 5 years, then followed by Pure Software which stayed for around 4 years serving for the client Oracle. Currently working in Tech Mahindra from past 2 years serving for the client SCB.  
+2.	My 11+ years consists of vast domain experience into Telecom, Health Science and Banking domains. 
+3.	I have expertized on emerging technologies like Apache Spark, PySpark, Python, Hadoop, Hive, Database Designing, PLSQL, SQL, Performance Tuning, Scheduling Tools (Control-M) and Automation (Shell Scripting)
+4.	Implementing strategic solutions.
+5.	Expertise on building scalable generic framework for business workflow process. 
+6.	Expertise to provide root cause analysis for high priority complex issues. 
+7.	Currently handling 10 members team as part of project management. 
+8.	Had one-year onsite experience to serve the clients DB in Singapore and Bank of Ireland (Ireland) through HCL. 
+
+As a Solution Architect, below are my accomplishments for the current client SCB. 
+
+1.	Generic work flow for project specific setup, which benefits client in both monetary and timelines.    
+2.	Scalable Application Architecture for Local Regulatory Report projects 
+3.	Automation of data extraction process to in line with application architecture
+4.	Automation of Manual File Upload.
+5.	Designed scalable solution for Critical Data Element Report by developing Entity Relationship Design along with data load automation. 
+6.	Automation script for parsing nested json format consumed by hive. 
+7.	Developed ETL pipeline for migrating data from Oracle DB to Hadoop and vice versa. 
+
+As a Technical lead, I was implemented all above aspects. Once finish given the KT to team members for further usage. Also supporting if they need any help. 
+
