@@ -10,12 +10,12 @@ Had one-year onsite experience to serve the clients DB in Singapore and Bank of 
 
 As a Solution Architect, below are my accomplishments for the current client SCB. 
 
-1.	Generic work flow for project specific setup, which benefits client in both monetary and timelines.    
-2.	Scalable Application Architecture for Local Regulatory Report projects 
-3.	Automation of data extraction process to in line with application architecture
-4.	Automation of Manual File Upload.
-5.	Designed scalable solution for Critical Data Element Report by developing Entity Relationship Design along with data load automation. 
-6.	Automation script for parsing nested json format consumed by hive. 
-7.	Developed ETL pipeline for migrating data from Oracle DB to Hadoop and vice versa. 
+Generic work flow for project specific setup, which benefits client in both monetary and timelines.    
+Scalable Application Architecture for Local Regulatory Report projects 
+Automation of data extraction process to in line with application architecture
+Automation of Manual File Upload.
+Designed scalable solution for Critical Data Element Report by developing Entity Relationship Design along with data load automation. 
+Automation script for parsing nested json format consumed by hive. 
+Developed ETL pipeline for migrating data from Oracle DB to Hadoop and vice versa. 
 
 As a Technical lead, I was implemented all above aspects. Once finish given the KT to team members for further usage. Also supporting if they need any help. 
